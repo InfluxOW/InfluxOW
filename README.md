@@ -1,6 +1,3 @@
-### Open to job offers! 🤝
-
-You can find me here:
 [Career Habr](https://career.habr.com/influx) | 
 [LinkedIn](https://www.linkedin.com/in/influxow/) | 
 [Email](mailto:krochak_n@mail.ru) | 
@@ -10,23 +7,30 @@ You can find me here:
 
 ---
 
-### Main skills 
-- Good knowledge:
-    * `PHP`
-    * `Laravel`
-    * `Laravel Ecosystem`
-    * `Git`
-    * `Bash`
-    * `SQL` (`PostgreSQL`, `SQLite`)
-- Medium knowledge:
-    * `HTML`
-    * `CSS` (`Bootstrap`, `Tailwind CSS`)
-    * `Logging` (`Rollbar`)
-    * `Containers` (`Docker`, `Docker-Compose`, `Laradock`)
-    * `CI/CD` (`Travis CI`, `GitHub Actions`)
-    * `Cloud Services` (`AWS S3`, `Heroku`)
-- Basic usage knowledge:
-    * `JavaScript` (`Vue`)
-    * `NoSQL` (`Redis`)
-    * `Full-text search` (`Algolia`)
-    * `Servers` (`Nginx`)
+✔ PHP [Laravel ❘ Laravel Ecosystem ❘ October CMS]
+
+✔ SQL [PostgreSQL ❘ MySQL ❘ SQLite]
+
+✔ NoSQL [Redis]
+
+✔ Containers [Docker ❘ Docker-Compose]
+
+✔ CI/CD [Travis CI ❘ GitHub Actions ❘ GitLab Actions]
+
+✔ Full-Text Search [Algolia]
+
+✔ Servers [Nginx]
+
+
+✔ API Documentation [Swagger]
+
+✔ RESTful API
+
+✔ Third-Party Integrations
+
+
+❤ Code Style [PHPCS ❘ PHPStan]
+
+⚡ Test-Driven Development [PHPUnit]
+
+✐ Development Environment [PHPStorm ❘ Ubuntu ❘ Bash ❘ Git]
