@@ -1,9 +1,9 @@
-[Career Habr](https://career.habr.com/influx) | 
-[LinkedIn](https://www.linkedin.com/in/influxow/) | 
-[Email](mailto:krochak_n@mail.ru) | 
-[Telegram](https://t.me/ow_influx) |
-[Hexlet](https://ru.hexlet.io/u/influx) |
-[Laracasts](https://laracasts.com/@Influx)
+[![](https://img.shields.io/badge/career-habr-blue?logo=habr&style=flat-square)](https://career.habr.com/influx)
+[![](https://img.shields.io/badge/%40-email-blue&?style=flat-square)](mailto:krochak_n@mail.ru)
+[![](https://img.shields.io/badge/telegram-blue?logo=telegram&style=flat-square)](https://t.me/ow_influx)
+
+[![](https://img.shields.io/badge/H-hexlet-black?style=flat-square)](https://ru.hexlet.io/u/influx)
+[![](https://img.shields.io/badge/laracasts-red?logo=laravel&style=flat-square&logoColor=white)](https://laracasts.com/@Influx)
 
 ---
 
