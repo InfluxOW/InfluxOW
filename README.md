@@ -5,6 +5,11 @@
 [![](https://img.shields.io/badge/H-hexlet-black?style=flat-square)](https://ru.hexlet.io/u/influx)
 [![](https://img.shields.io/badge/laracasts-red?logo=laravel&style=flat-square&logoColor=white)](https://laracasts.com/@Influx)
 
+[![](https://www.codewars.com/users/InfluxOW/badges/micro)](https://www.codewars.com/users/InfluxOW)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=InfluxOW.InfluxOW)
+
+[![](https://github-readme-stats.vercel.app/api?username=InfluxOW)](https://github.com/InfluxOW)
+
 ---
 
 ✔ PHP [Laravel ❘ Laravel Ecosystem ❘ October CMS]
