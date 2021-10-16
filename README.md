@@ -8,7 +8,7 @@
 [![](https://www.codewars.com/users/InfluxOW/badges/micro)](https://www.codewars.com/users/InfluxOW)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=InfluxOW.InfluxOW)
 
-[![](https://github-readme-stats.vercel.app/api?username=InfluxOW)](https://github.com/InfluxOW)
+[![](https://github-readme-stats.vercel.app/api?username=InfluxOW&include_all_commits=true&show_icons=true)](https://github.com/InfluxOW)
 
 ---
 
