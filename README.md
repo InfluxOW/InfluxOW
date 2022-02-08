@@ -23,7 +23,7 @@
 
 ✔ PHP [Laravel ❘ Laravel Ecosystem ❘ October CMS]
 
-✔ SQL [PostgreSQL ❘ MySQL ❘ SQLite]
+✔ SQL [PostgreSQL ❘ MySQL]
 
 ✔ NoSQL [Redis]
 
@@ -32,8 +32,6 @@
 ✔ CI/CD [Travis CI ❘ GitHub Actions ❘ GitLab Actions]
 
 ✔ Full-Text Search [Algolia]
-
-✔ Servers [Nginx]
 
 
 ✔ API Documentation [Swagger]
