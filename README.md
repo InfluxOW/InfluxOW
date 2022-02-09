@@ -11,7 +11,6 @@
 [![](https://img.shields.io/badge/%20-%20-red)](#)
 [![](https://img.shields.io/badge/%20-%20-red)](#)
 [![](https://www.codewars.com/users/InfluxOW/badges/micro)](https://www.codewars.com/users/InfluxOW)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=InfluxOW.InfluxOW)
 
 ---
 
@@ -21,28 +20,33 @@
 
 ---
 
-✔ PHP [Laravel ❘ Laravel Ecosystem ❘ October CMS]
+✅ PHP [Laravel ❘ Laravel Ecosystem ❘ October CMS]
 
-✔ SQL [PostgreSQL ❘ MySQL]
+✅ OOP [SOLID ❘ DRY ❘ KISS ❘ YAGNI ❘ etc.]
 
-✔ NoSQL [Redis]
+✅ SQL [PostgreSQL ❘ MySQL] ❘ Database Design ❘ Queries Optimization
 
-✔ Containers [Docker ❘ Docker-Compose]
+✅ NoSQL [Redis]
 
-✔ CI/CD [Travis CI ❘ GitHub Actions ❘ GitLab Actions]
+✅ Message Brokers [RabbitMQ]
 
-✔ Full-Text Search [Algolia]
+✅ Containers [Docker ❘ Docker Compose]
 
+✅ CI/CD [GitHub Actions ❘ GitLab Actions]
 
-✔ API Documentation [Swagger]
+✅ Full-Text Search [Algolia]
 
-✔ RESTful API
+✅ API Documentation [Swagger]
 
-✔ Third-Party Integrations
+✅ HTTP ❘ RESTful API
 
+✅ Third-Party Integrations
 
-❤ Code Style [PHPCS ❘ PHPStan]
+✅ Web Security [SQL Injections ❘ XSS ❘ CSRF ❘ etc.]
+
+💙 Code Style and Quality [PSR | PHPCS ❘ PHPStan]
 
 ⚡ Test-Driven Development [PHPUnit]
 
-✐ Development Environment [PHPStorm ❘ Ubuntu ❘ Bash ❘ Git]
+📝 Development Environment [PHPStorm ❘ Ubuntu ❘ Bash ❘ Git]
+
