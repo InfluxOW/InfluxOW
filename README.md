@@ -22,7 +22,7 @@
 
 ✅ PHP [Laravel ❘ Laravel Ecosystem ❘ October CMS]
 
-✅ OOP [SOLID ❘ DRY ❘ KISS ❘ YAGNI ❘ etc.]
+✅ OOP [SOLID ❘ Design Patterns ❘ Refactoring Techniques]
 
 ✅ SQL [PostgreSQL ❘ MySQL] ❘ Database Design ❘ Queries Optimization
 
