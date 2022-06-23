@@ -1,5 +1,4 @@
 [![](https://img.shields.io/badge/career-habr-blue?logo=habr&style=flat-square)](https://career.habr.com/influx)
-[![](https://img.shields.io/badge/upwork-green?logo=upwork&style=flat-square&logoColor=white)](https://www.upwork.com/freelancers/~01ed46563c078fb563)
 [![](https://img.shields.io/badge/%40-email-blue&?style=flat-square)](mailto:krochak_n@mail.ru)
 [![](https://img.shields.io/badge/telegram-blue?logo=telegram&style=flat-square)](https://t.me/ow_influx)
 [![](https://img.shields.io/badge/%20-%20-grey)](#)
@@ -10,6 +9,7 @@
 [![](https://img.shields.io/badge/%20-%20-red)](#)
 [![](https://img.shields.io/badge/%20-%20-red)](#)
 [![](https://img.shields.io/badge/%20-%20-red)](#)
+[![](https://img.shields.io/badge/leetcode-orange?logo=leetcode&style=flat-square&logoColor=white)]([https://leetcode.com/InfluxOW/])
 [![](https://www.codewars.com/users/InfluxOW/badges/micro)](https://www.codewars.com/users/InfluxOW)
 
 ---
