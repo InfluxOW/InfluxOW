@@ -34,7 +34,9 @@
 
 ✅ CI/CD [GitHub Actions ❘ GitLab Actions]
 
-✅ Full-Text Search [Algolia]
+✅ Full-Text Search [Algolia ❘ Elasticsearch]
+
+✅ Servers [Nginx ❘ Laravel Octane (Swoole)]
 
 ✅ API Documentation [Swagger]
 
@@ -49,4 +51,5 @@
 ⚡ Test-Driven Development [PHPUnit]
 
 📝 Development Environment [PHPStorm ❘ Ubuntu ❘ Bash ❘ Git]
+
 
