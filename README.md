@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/%20-%20-red)](#)
 [![](https://img.shields.io/badge/%20-%20-red)](#)
 [![](https://img.shields.io/badge/%20-%20-red)](#)
-[![](https://img.shields.io/badge/leetcode-orange?logo=leetcode&style=flat-square&logoColor=white)]([https://leetcode.com/InfluxOW/])
+[![](https://img.shields.io/badge/leetcode-orange?logo=leetcode&style=flat-square&logoColor=white)](https://leetcode.com/InfluxOW/)
 [![](https://www.codewars.com/users/InfluxOW/badges/micro)](https://www.codewars.com/users/InfluxOW)
 
 ---
