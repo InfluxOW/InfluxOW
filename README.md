@@ -14,9 +14,9 @@
 
 ---
 
-[![](https://github-readme-stats.vercel.app/api?username=influxow&include_all_commits=true&show_icons=true&count_private=true&hide_title=true)](https://github.com/InfluxOW)
+[![](https://github-readme-stats-theta-black-53.vercel.app/api?username=influxow&include_all_commits=true&show_icons=true&count_private=true&hide_title=true)](https://github.com/InfluxOW)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=influxow&layout=compact&card_width=445&hide_title=true)](https://github.com/InfluxOW)
+[![Top Langs](https://github-readme-stats-theta-black-53.vercel.app/api/top-langs/?username=influxow&layout=compact&card_width=445&hide_title=true)](https://github.com/InfluxOW)
 
 ---
 
