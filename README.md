@@ -20,25 +20,25 @@
 
 ---
 
-✅ PHP [Laravel ❘ Laravel Ecosystem ❘ October CMS]
+✅ PHP [Laravel ❘ Laravel Ecosystem ❘ Filament]
+
+✅ Golang + Python [Basics] + JS [Basics]
 
 ✅ OOP [SOLID ❘ Design Patterns ❘ Refactoring Techniques]
 
 ✅ SQL [PostgreSQL ❘ MySQL] ❘ Database Design ❘ Queries Optimization
 
-✅ NoSQL [Redis]
+✅ NoSQL [Redis ❘ Elasticsearch]
 
 ✅ Message Brokers [RabbitMQ]
 
 ✅ Containers [Docker ❘ Docker Compose]
 
-✅ CI/CD [GitHub Actions ❘ GitLab Actions]
-
-✅ Full-Text Search [Algolia ❘ Elasticsearch]
+✅ CI/CD [GitHub Actions]
 
 ✅ Servers [Nginx ❘ Laravel Octane (Swoole)]
 
-✅ API Documentation [Swagger]
+✅ API Documentation [Swagger (OpenAPI)]
 
 ✅ HTTP ❘ RESTful API
 
@@ -46,7 +46,7 @@
 
 ✅ Web Security [SQL Injections ❘ XSS ❘ CSRF ❘ etc.]
 
-💙 Code Style and Quality [PSR | PHPCS ❘ PHPStan]
+💙 Code Style and Quality [PSR | PHPCS ❘ PHPStan ❘ etc. ]
 
 ⚡ Test-Driven Development [PHPUnit]
 
